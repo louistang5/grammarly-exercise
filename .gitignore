@@ -103,5 +103,6 @@ ENV/
 # my list
 *.csv
 *.json
+*.html
 DAU_by_day
 
